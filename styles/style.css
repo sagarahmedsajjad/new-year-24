@@ -1,0 +1,90 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    position: relative;
+   
+}
+
+
+
+
+.banner-info {
+    position: absolute;
+    color: white;
+    top: 50%;
+    text-align: center;
+    transform: translateY(-50%);
+
+
+}
+
+.banner-info>h1 {
+    font-size: 72px;
+    margin: 0;
+
+}
+
+.banner-info>h3 {
+    font-size: 32px;
+    margin: 0;
+}
+.discount-info{
+    text-align: center;
+    color: #F00;
+ 
+font-size: 88px;
+ 
+font-weight: 700;
+margin-bottom: 20px;
+
+ 
+}
+.discount-reward{
+    color: #F00;
+text-align: center;
+font-style: initial;
+ font-size: 24px;
+  
+font-weight: 500;
+ ;
+}
+.discount-all{
+    text-align: center;
+    font-size: 48px;
+    color: #070211;
+margin-top: 10px;
+}
+.new-year-photo{
+    display: flex;
+    justify-content: center;
+}
+.peragraph{
+    display: flex;
+    justify-content: center;
+    position: relative;}
+
+.peragraph-info{
+     position: absolute;
+    justify-content: center;
+     top: 40px;
+
+    
+ 
+
+}
+.peragraph-party{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;   
+}
+.peragraph-party-info{
+    color: gainsboro;
+font-size: 18px;
+line-height: 30px;   
+}
+.btn{
+    color: #FFF;
+text-align: center;
+font-size: 20px;
+font-weight: 700;
+}
