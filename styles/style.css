@@ -112,6 +112,9 @@ letter-spacing: 7.04px;
          
         width: 60%;
      margin: 100px auto;
+     border-radius: 16px;
+     padding-top: 50px;
+     padding-bottom: 50px;
   
         
         align-items: center;
@@ -130,6 +133,7 @@ line-height: 56px;
         padding: 16px 32px;
         font-size: 20px;
         font-weight: 700;
+        border-radius: 20px;
     }
     .new-container{
         display: flex;
@@ -154,6 +158,148 @@ font-weight: 900;
 height: 380px;
     border-radius: 380px;
     border: 15px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    }
+   .holiday-sell{
+text-align: center;
+   }
+.holiday-title{
+    color:  black;
+font-size: 24px;
+margin-top: 50px;
+margin-bottom: 0;
+font-weight: 500;}
+.holiday{
+     text-align: center;
+     font-size: 72px;
+     margin: 0;
+    font-weight: 900;}
+    .half-discount{
+        
 
+    }
+    .flash-sell{
+
+    }
+    .girls-pic{
+
+    }
+    .red{
+
+    }
+     .img-conatainer{
+        display: flex;
+        
+    }
+    
+    .right-img{
+        width: 50%;
+        position: relative;
+
+    }
+    .left-img{
+        width: 50%;
+        position: relative;
+        z-index: 5;
+    }
+    .solid-img{
+        position: relative;
+        top: -235px;
+        
+    }
+    .discount{
+        position: absolute;
+        left: 0; 
+        transform: translateX(50%);
+       
+         
+
+    }
+    .all-picture{
+        text-align: left;
+
+        margin-left: 250px;
+        min-width: auto;
+        margin-top: 70px;
+    }
+    .headline{
+        color:black;
+font-size: 48px;
+font-weight: 900;
+margin-top: 0;
+margin-bottom: 0;
+  }
+  .display-img{
+    align-items:center;
+
+  }
+  .last-sec{
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+width: 60%;
+align-items: center;
+justify-content: center;
+text-align: center;
+margin-left: 330px;
+margin-top: 50px;
+padding-bottom: 50px;
+  }
+  .mail-img{
+     justify-content: center;
+     margin-top: 80px;
+     padding-top: 50px;
+    
+  }
+  .subscribe{
+    color: black;
+    margin: 0;
+text-align: center;
+font-size: 48px;
+font-weight: 900;
+margin-bottom: 30px;
+border-bottom: 40px;
+
+  }
+  .subs-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+   
+  
+  .amar-btn{
+    border-radius: 5px;
+    background-color: rgb(255, 47, 47);
+    
+    
+  }
+.finishline{
+    background-color: rgb(46, 46, 46);
+    border-radius: 16px;
+    width: 60%;
+align-items: center;
+justify-content: center;
+text-align: center;
+margin-left: 330px;
+padding-bottom: 50px;
+margin-top: 50px;}
+.first-line{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 5px 50px ;
+    
+}
+.last-line{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 5px 50px ;
+
+}
+.ses{
+    border-radius: 5px;
+    padding-top: 20px ;
+}
    
