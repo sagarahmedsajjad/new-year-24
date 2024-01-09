@@ -131,5 +131,29 @@ line-height: 56px;
         font-size: 20px;
         font-weight: 700;
     }
+    .new-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .bold-text{
+        color: #070211;
+font-size: 48px;
+margin: 0;
+font-weight: 900;
+   }
+   .fixed-img{
+    width: 250px;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+   }
+   .circle-img{
+    width: 380px;
+height: 380px;
+    border-radius: 380px;
+    border: 15px solid red;
+   }
 
    
