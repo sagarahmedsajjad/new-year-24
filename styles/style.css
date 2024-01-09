@@ -58,33 +58,52 @@ margin-top: 10px;
     display: flex;
     justify-content: center;
 }
-.peragraph{
+/* paragraph style */
+.paragraph{
+    width: 1240px;
+    margin: 100px auto;
+}
+.paragraph-container{
+
     display: flex;
-    justify-content: center;
-    position: relative;}
-
-.peragraph-info{
-     position: absolute;
-    justify-content: center;
-     top: 40px;
-
     
- 
+    align-items: center;
+    background: linear-gradient(to bottom, rgba(18, 18, 18, 0.7), rgba(255, 255, 255, 0.3)), url('../B9A1-New-Year-New-Mission-main/resources/Vectorrr.png');
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.paragraph-info{
+       padding-left: 120px;
+       width: 60%;
+
 
 }
-.peragraph-party{
+.paragraph-heading{
     color: #FFF;
-    font-family: Merriweather;
-    font-size: 64px;   
+ margin: 0px;
+font-size: 64px;
+line-height: 70px;  
+letter-spacing: 7.04px;
+
 }
-.peragraph-party-info{
-    color: gainsboro;
-font-size: 18px;
-line-height: 30px;   
+.paragraph-text{
+    color: rgba(255, 255, 255, 0.80);
+     
+    font-size: 18px;
+     
+    font-weight: 400;
+    line-height: 30px; 
 }
-.btn{
-    color: #FFF;
-text-align: center;
-font-size: 20px;
-font-weight: 700;
-}
+    .paragraph-button{
+
+    }
+    .paragraph-img{
+        width: 40%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+ 
